@@ -1,0 +1,4 @@
+[
+	{ "keys": ["Ctrl+H"],       "command": "go_to_home_directory" },
+	{ "keys": ["Ctrl+Shift+H"], "command": "go_to_home_directory_in_all_panes" }
+]
